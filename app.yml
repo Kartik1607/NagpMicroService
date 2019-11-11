@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  account-service:
+    build:
+      context: ./
+      dockerfile: Account/Dockerfile
+    expose:
+      - "80"
+    ports:
+      - "5000:80"
+    hostname: account-service
+    image: account-service
+    container_name: account-service
+
+  gateway:
+    build:
+      context: ./
+      dockerfile: Gateway/Dockerfile
+    expose:
+      - "80"
+    ports:
+      - "5002:80"
+    hostname: gateway
+    image: gateway
+    container_name: gateway

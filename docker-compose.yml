@@ -1,0 +1,47 @@
+version: "3.4"
+
+services:
+  eureka:
+    image: kartiksharmanagarro/eureka
+    build:
+      context: ./Eureka
+      dockerfile: Dockerfile
+
+  configserver:
+    image: kartiksharmanagarro/configserver
+    build:
+      context: ./ConfigServer
+      dockerfile: Dockerfile
+
+  gateway:
+    image: kartiksharmanagarro/gateway
+    build:
+      context: .
+      dockerfile: Gateway/Dockerfile
+    depends_on:
+      - account-service
+
+  account-service:
+    image: kartiksharmanagarro/account-service
+    build:
+      context: .
+      dockerfile: Account/Dockerfile
+    depends_on:
+      - eureka
+      - configserver
+
+  onboard-service:
+    image: kartiksharmanagarro/onboard-service
+    build:
+      context: .
+      dockerfile: OnBoard/Dockerfile
+    depends_on:
+      - eureka
+
+  transaction-service:
+    image: kartiksharmanagarro/transaction-service
+    build:
+      context: .
+      dockerfile: Transaction/Dockerfile
+    depends_on:
+      - eureka

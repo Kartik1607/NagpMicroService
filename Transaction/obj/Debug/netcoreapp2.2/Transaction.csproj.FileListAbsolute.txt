@@ -1,0 +1,14 @@
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.csproj.CoreCompileInputs.cache
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.AssemblyInfoInputs.cache
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.AssemblyInfo.cs
+D:\NAGP\microservices\Assignment\Account\Transaction\bin\Debug\netcoreapp2.2\Transaction.deps.json
+D:\NAGP\microservices\Assignment\Account\Transaction\bin\Debug\netcoreapp2.2\Transaction.runtimeconfig.json
+D:\NAGP\microservices\Assignment\Account\Transaction\bin\Debug\netcoreapp2.2\Transaction.runtimeconfig.dev.json
+D:\NAGP\microservices\Assignment\Account\Transaction\bin\Debug\netcoreapp2.2\Transaction.dll
+D:\NAGP\microservices\Assignment\Account\Transaction\bin\Debug\netcoreapp2.2\Transaction.pdb
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.csprojAssemblyReference.cache
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.RazorAssemblyInfo.cache
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.RazorAssemblyInfo.cs
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.RazorTargetAssemblyInfo.cache
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.dll
+D:\NAGP\microservices\Assignment\Account\Transaction\obj\Debug\netcoreapp2.2\Transaction.pdb

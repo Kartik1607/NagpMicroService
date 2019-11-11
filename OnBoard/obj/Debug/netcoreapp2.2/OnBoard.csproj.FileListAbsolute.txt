@@ -1,0 +1,14 @@
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.csproj.CoreCompileInputs.cache
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.AssemblyInfoInputs.cache
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.AssemblyInfo.cs
+D:\NAGP\microservices\Assignment\Account\OnBoard\bin\Debug\netcoreapp2.2\OnBoard.deps.json
+D:\NAGP\microservices\Assignment\Account\OnBoard\bin\Debug\netcoreapp2.2\OnBoard.runtimeconfig.json
+D:\NAGP\microservices\Assignment\Account\OnBoard\bin\Debug\netcoreapp2.2\OnBoard.runtimeconfig.dev.json
+D:\NAGP\microservices\Assignment\Account\OnBoard\bin\Debug\netcoreapp2.2\OnBoard.dll
+D:\NAGP\microservices\Assignment\Account\OnBoard\bin\Debug\netcoreapp2.2\OnBoard.pdb
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.csprojAssemblyReference.cache
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.RazorAssemblyInfo.cache
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.RazorAssemblyInfo.cs
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.RazorTargetAssemblyInfo.cache
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.dll
+D:\NAGP\microservices\Assignment\Account\OnBoard\obj\Debug\netcoreapp2.2\OnBoard.pdb

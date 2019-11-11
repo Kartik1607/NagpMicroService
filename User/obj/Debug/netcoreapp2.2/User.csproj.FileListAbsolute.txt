@@ -1,0 +1,3 @@
+D:\NAGP\microservices\Assignment\Account\User\obj\Debug\netcoreapp2.2\User.csproj.CoreCompileInputs.cache
+D:\NAGP\microservices\Assignment\Account\User\obj\Debug\netcoreapp2.2\User.AssemblyInfoInputs.cache
+D:\NAGP\microservices\Assignment\Account\User\obj\Debug\netcoreapp2.2\User.AssemblyInfo.cs

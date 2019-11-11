@@ -1,0 +1,33 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "nagarroAccountService",
+      "UpstreamPathTemplate": "/account/{catchAll}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "nagarroOnBoard",
+      "UpstreamPathTemplate": "/onboard/{catchAll}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "nagarroTransaction",
+      "UpstreamPathTemplate": "/transaction/{catchAll}"
+    }
+  ],
+  "GlobalConfiguration": {
+    "UseServiceDiscovery": true,
+    "ServiceDiscoveryProvider": {
+      "Type": "Eureka",
+      "Host": "localhost",
+      "Port": "8761"
+    }
+  }
+}
